@@ -26,9 +26,95 @@
           "event": "120公里训放",
           "distance": 120,
           "returnTime": "10:42",
-          "rank": 18
+          "rank": 18,
+          "settled": false,
+          "frozen": false
         }
       ]
+    },
+    {
+      "ringNo": "CHN-2027-101",
+      "owner": "北岸棚",
+      "fatherRing": "CHN-2026-001",
+      "motherRing": "",
+      "color": "灰",
+      "loft": "北岸A棚",
+      "vaccines": [],
+      "transfers": [],
+      "races": [
+        {
+          "date": "2026-08-15",
+          "event": "200公里资格赛",
+          "distance": 200,
+          "returnTime": "13:05",
+          "rank": 3,
+          "settled": false,
+          "frozen": false
+        }
+      ]
+    },
+    {
+      "ringNo": "CHN-2028-201",
+      "owner": "北岸棚",
+      "fatherRing": "CHN-2027-101",
+      "motherRing": "",
+      "color": "雨点",
+      "loft": "北岸B棚",
+      "vaccines": [],
+      "transfers": [],
+      "races": [
+        {
+          "date": "2026-07-20",
+          "event": "150公里热身",
+          "distance": 150,
+          "returnTime": "11:20",
+          "rank": 5,
+          "settled": true,
+          "settledAt": "2026-07-25T00:00:00.000Z",
+          "frozen": false
+        },
+        {
+          "date": "2026-09-10",
+          "event": "300公里预赛",
+          "distance": 300,
+          "returnTime": "15:48",
+          "rank": 2,
+          "settled": false,
+          "frozen": false
+        }
+      ]
+    },
+    {
+      "ringNo": "CHN-2029-301",
+      "owner": "北岸棚",
+      "fatherRing": "",
+      "motherRing": "CHN-2028-201",
+      "color": "红轮",
+      "loft": "北岸B棚",
+      "vaccines": [],
+      "transfers": [],
+      "races": [
+        {
+          "date": "2026-09-12",
+          "event": "100公里训放",
+          "distance": 100,
+          "returnTime": "09:58",
+          "rank": 7,
+          "settled": false,
+          "frozen": false
+        }
+      ]
+    },
+    {
+      "ringNo": "CHN-2030-401",
+      "owner": "北岸棚",
+      "fatherRing": "CHN-2029-301",
+      "motherRing": "",
+      "color": "灰",
+      "loft": "北岸C棚",
+      "vaccines": [],
+      "transfers": [],
+      "races": []
     },
     {
       "ringNo": "CHN-2022-188",
@@ -52,5 +138,9 @@
       "transfers": [],
       "races": []
     }
-  ]
+  ],
+  "samples": [],
+  "snapshots": [],
+  "freezeLog": [],
+  "frozenRings": []
 }
